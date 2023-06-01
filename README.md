@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/mushketov/MetaStorm">
+  <a href="https://mushketov.github.io/MetaStorm/" target="_blank">
     <img src="preview.png" alt="screenshot">
   </a>
 
