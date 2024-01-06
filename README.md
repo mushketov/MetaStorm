@@ -4,4 +4,4 @@
   </a>
 
   <h1 align="center">MetaStorm</h3>
-  <a href="https://mushketov.github.io/MetaStorm/" target="_blank">MetaStorm Home</a>
+  <a align="center" href="https://mushketov.github.io/MetaStorm/" target="_blank">MetaStorm Home</a>
